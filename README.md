@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mrigya</h1>
-<h3 align="center">An AR/VR enthusiast from India</h3>
-<img align="right" width="400" alt="mrigya" src="https://images.contentstack.io/v3/assets/blt08c1239a7bff8ff5/bltdff1a2920dd347a5/63f5068a97790d11728d0a6d/U_Logo_Small_black.svg">
+<h3 align="center">A Flutter Developer & an AR/VR enthusiast from India</h3>
+<!-- <img align="right" width="400" alt="mrigya" src="https://images.contentstack.io/v3/assets/blt08c1239a7bff8ff5/bltdff1a2920dd347a5/63f5068a97790d11728d0a6d/U_Logo_Small_black.svg"> -->
 
 <p align="left"> <a href="https://twitter.com/mrigyasahai" target="blank"><img src="https://img.shields.io/twitter/follow/mrigyasahai?logo=twitter&style=for-the-badge" alt="mrigyasahai" /></a> </p>
 
-- 🍟 I'm currently working on **AR/VR based projects on Unity 3D**
+- 🍟 I'm currently working on **Flutter State Management and AR/VR-based projects on Unity 3D**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter for UI and Firebase as backend**
 
-- 👯 I’m looking to collaborate on **Games made on Unity 3D**
+- 👯 I’m looking to collaborate on **Chat application made using Flutter**
 
 - 🤝 I’m looking for help with **Flutter plugin for AR**
 
-- 💬 Ask me about **Unity 3D, AR/VR**
+- 💬 Ask me about **Flutter, Dart, Unity 3D, and AR/VR**
 
 - 📫 How to reach me **sahaimrigya@gmail.com**
 
